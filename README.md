@@ -15,4 +15,4 @@ Web based editor to create Resume in a customizable template
 - Sub-points can be added with various bullet styles and adjustable indentation.
 - Script provided to merge multiple pages and compress the PDF.
 
-**Note** : Use Google Chrome
+**Note** : Use Google Chrome / edge
